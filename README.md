@@ -4,10 +4,11 @@ The objective of this project is to present an easy-to-understand and readily ap
 North America's electricity systems are often administered by an independent body which sets the price, in order to facilitate equilibrium in the system. Fluctuating prices act as signals to producers. In other words upward sloping demand should motivate higher prices, whichin turn should motivate more producers to enter the market and provide the imminent needs of the market.
 
 Ontario's electricity market is an example. Ontario's Independent Electricity System Operator - IESO for short - records this market's data, and is committed to keeping this data available for download to the public (on ieso.ca website).
-A FEW WORDS ABOUT A MARKET THAT CHASES EQUILIBRIUM
+
+<h3> A FEW WORDS ABOUT A MARKET THAT CHASES EQUILIBRIUM </h3>
 Price variability is a feature of North America's electricity markets. As demand fluctuates, prices adjust in order to provide adequate incentive for various electricity producers to enter and leave the market. This continuous adjustment takes place in order to maintain supply and demand in the province fairly close to equilibrium.
 
-<h2> A FEW WORDS ABOUT THE POTENTIAL USE FOR THIS PROJECT </h2>
+<h3> A FEW WORDS ABOUT THE POTENTIAL USE FOR THIS PROJECT </h3>
 
 During peak hours demand rises sharply, and prices adjust accordingly. Price spikes, however, are short lived and rare occurrences that are essentially different from normal price fluctuations during peak hours. Weather abnormalities and extreme temperatures are thought to be one of many factors which can increase the likelihood of price spikes. Forecasting price spikes followed by demand management (although difficult) can help with stabilizing the system. The benefits associated with this kind of demand management are reduced electricity bill for consumers, as well as reduced pressure on the system and reduced likelihood of outages.
 
