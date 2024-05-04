@@ -1,3 +1,4 @@
+<h2> Ontario's Independent Electricity Systems Operator (IESO) </h2>
 The objective of this project is to present an easy-to-understand and readily approachable example of utilizing Machine Learning techniques. The data used for this project comes from Ontario's Independent Electricity System's Operator (ieso) website, and the goal is forecasting price spikes an hour ahead.
 
 North America's electricity systems are often administered by an independent body which sets the price, in order to facilitate equilibrium in the system. Fluctuating prices act as signals to producers. In other words upward sloping demand should motivate higher prices, whichin turn should motivate more producers to enter the market and provide the imminent needs of the market.
