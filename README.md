@@ -1,9 +1,9 @@
 <h2> Ontario's Independent Electricity Systems Operator (IESO) </h2>
 The objective of this project is to present an easy-to-understand and readily approachable example of utilizing Machine Learning techniques. The data used for this project comes from Ontario's Independent Electricity System's Operator (ieso) website, and the goal is forecasting price spikes an hour ahead.
 
-North America's electricity systems are often administered by an independent body which sets the price, in order to facilitate equilibrium in the system. Fluctuating prices act as signals to producers. In other words upward sloping demand should motivate higher prices, whichin turn should motivate more producers to enter the market and provide the imminent needs of the market.
+North America's electricity systems are often administered by an independent body (an administrative and legal entity) which oversees the price setting and price discovery process, and facilitates market's tendency towards an equilibrium (for the sake of system's stability). Thus, fluctuating prices, act as signals to producers. In other words upward sloping demand should motivate higher prices, which in turn should motivate more producers to enter the market and meet the imminent market demand.
 
-Ontario's electricity market is an example. Ontario's Independent Electricity System Operator - IESO for short - records this market's data, and is committed to keeping this data available for download to the public (on ieso.ca website).
+Ontario's electricity market is an example. Ontario's Independent Electricity System Operator - IESO for short - records Ontario's power data, and is committed to keeping this data available for download for the public (on ieso.ca website).
 
 <h3> A FEW WORDS ABOUT A MARKET THAT CHASES EQUILIBRIUM </h3>
 Price variability is a feature of North America's electricity markets. As demand fluctuates, prices adjust in order to provide adequate incentive for various electricity producers to enter and leave the market. This continuous adjustment takes place in order to maintain supply and demand in the province fairly close to equilibrium.
